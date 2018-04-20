@@ -29,7 +29,7 @@ In your ASP.NET project, take a dependency on the Multitenancy package:
 dotnet add package Multitenancy
 ```
 
-and, after you setup all your dependencies, setup the overrides/individula dependencies for each of your tenants:
+and, after you setup all your dependencies, setup the overrides/individual dependencies for each of your tenants:
 
 ```cs
 services.ConfigureTenant(t =>
