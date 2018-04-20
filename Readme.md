@@ -5,7 +5,7 @@
 ```bash
 cd src
 
-dotnet clean && dotnet pack Multitenancy/ && dotnet build && dotnet run --project MultitenantAspApp
+dotnet clean && dotnet pack Multitenancy/ && dotnet build && dotnet test ../test/MultitenantAspApp.Tests/MultitenantAspApp.Tests.csproj && dotnet run --project MultitenantAspApp
 ```
 
 You can now check out 
