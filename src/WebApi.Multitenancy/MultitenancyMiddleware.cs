@@ -5,7 +5,7 @@ using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Threading.Tasks;
 
-namespace Multitenancy
+namespace WebApi.Multitenancy
 {
     public class MultitenancyMiddleware
     {

@@ -1,2 +1,2 @@
 #!/bin/bash
-dotnet run --project src/MultitenantAspApp
+dotnet run --project src/samples/MultitenantAspApp

@@ -1,6 +1,6 @@
 using Microsoft.Extensions.DependencyInjection;
 
-namespace Multitenancy
+namespace WebApi.Multitenancy
 {
     public class Tenant
     {

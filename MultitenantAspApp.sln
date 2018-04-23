@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2005
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multitenancy", "src\Multitenancy\Multitenancy.csproj", "{D6B3CBE1-8521-47F5-A160-E90E7E383628}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multitenancy", "src\WebApi.Multitenancy\WebApi.Multitenancy.csproj", "{D6B3CBE1-8521-47F5-A160-E90E7E383628}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultitenantAspApp", "src\MultitenantAspApp\MultitenantAspApp.csproj", "{2FDEDCDC-8D33-43A4-8A2D-0B5B56F189C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultitenantAspApp", "src\samples\MultitenantAspApp\MultitenantAspApp.csproj", "{2FDEDCDC-8D33-43A4-8A2D-0B5B56F189C6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{9813A4E4-5781-4FCD-A58D-541115258FDC}"
 EndProject

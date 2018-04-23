@@ -2,7 +2,7 @@ using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections;
 
-namespace Multitenancy
+namespace WebApi.Multitenancy
 {
     public static class TenantConfiguration
     {

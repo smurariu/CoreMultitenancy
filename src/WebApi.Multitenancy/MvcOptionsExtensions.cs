@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Routing;
 
-namespace Multitenancy
+namespace WebApi.Multitenancy
 {
     public static class MvcOptionsExtensions
     {
