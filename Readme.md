@@ -52,7 +52,7 @@ Add the middleware in the ```Configure``` method
 app.UseMultitenancy();
 ```
 
-### Step 3 (optional):
+### Step 3:
 Add route prefix. 
 
 If you wish to be able to pass the ```string tenantId```  parameter to your controller actions, you can add a route prefix that identifies the tenant and passes it on to your action methods.
