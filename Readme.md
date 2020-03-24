@@ -1,5 +1,9 @@
 # ASP.NET Core Multitenancy Implementation
 
+## Goal
+
+Easily inject different concrete implementations of services and different configuration values per tenant. 
+
 ## How to run
 
 ```bash
